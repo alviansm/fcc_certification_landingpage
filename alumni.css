@@ -1,0 +1,30 @@
+#alumni-container {
+    margin-top: 3rem;
+}
+
+.alumni {
+    width: 95%;
+    max-width: 720px;
+    margin: .4rem auto;
+    display: flex;
+    flex-direction: row;
+    padding: .4rem;
+    border-radius: .4rem;
+}
+
+.alumni img {
+    width: 15%;
+    max-width: 96px;
+    background-color: var(--primary-color);
+    padding: .4rem;
+    border-radius: .4rem;
+}
+
+.alumni-description {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 1.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    font-style: oblique;
+}
